@@ -1,2 +1,2 @@
 # Landing-Page
-/index.html
+/index.HTML
